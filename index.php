@@ -350,7 +350,6 @@ include "app/items/variables.php";
       <li><a href="" target="_blank">Politica de Privacidad</a></li>
       <li><a href="" target="_blank">Licencia</a></li>
       <li><a href="" target="_blank">Publicidad</a></li>
-      <li><a href="" target="_blank">WordPress.org</a></li>
     </ol>
   </section>
   <footer>

@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/icon" href="assets/imagenes/salon-de-belleza-el-ayudante.png"/>
 <?php
 session_start();
 include "app/items/variables.php";
@@ -30,6 +29,7 @@ if (isset($_POST["username"]) && isset($_POST["password"])) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">   
     <link rel="stylesheet" href="https://www.markuptag.com/bootstrap/5/css/bootstrap.min.css">
+    <link rel="shortcut icon" type="image/icon" href="assets/imagenes/salon-de-belleza-el-ayudante.png"/>
     <style>
         .btn-login{
             background-color: #006791; border:#006791;
